@@ -1,9 +1,16 @@
 #### Hi there 👋 I am Shreejit.
-Currently, I am pursuing a Master's in Computer Science at the University of Southern Mississippi.
-I am an experienced Java Software Engineer with a demonstrated history of working in the information technology and services industry. I possess strong engineering professional with a Bachelor’s degree focused in Computer Engineering from Tribhuvan University, Kathmandu, Nepal.
+Currently, I am pursuing a Master's in Computer Science Degree at the University of Southern Mississippi.
+I am an experienced Associate Software Engineer(Java) with a demonstrated history of working in the information technology and services industry. I possess strong engineering professional with a Bachelor’s degree focused in Computer Engineering from Tribhuvan University, Kathmandu, Nepal.
 
 #### Skills: 
-Java / Java EJBs & CDIs / JS / Angular JS / HTML / iReport / Version Control Tools(Git) / JIRA/ JAXB / JUnit / SQL / Java Spring Boot / Python / JRXML 
+* JIRA
+* Java EJBs & CDIs, Spring Boot
+* JAXB, JRXML, JUnit, iReport
+* Java Script, Angular JS  
+* Version Control Tools(Git) 
+* HTML
+* SQL 
+* Python
 
 - 🔭 I’m currently working on my portfolio website in Angular and Spring Boot. 
 - 🌱 I’m currently learning Java Spring Boot, Angular, Firebase and AWS 
