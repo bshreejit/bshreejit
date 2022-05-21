@@ -1,8 +1,12 @@
-#### Hi there 👋 I am Shreejit.
+# Shreejit Bhattarai
 Currently, I am pursuing a Master's in Computer Science Degree at the University of Southern Mississippi.
 I am an experienced Associate Software Engineer(Java) with a demonstrated history of working in the information technology and services industry. I possess strong engineering professional with a Bachelor’s degree focused in Computer Engineering from Tribhuvan University, Kathmandu, Nepal.
 
-#### Skills: 
+
+- 🔭 I’m currently working on my portfolio website in Angular and Spring Boot. 
+- 🌱 I’m currently learning Java Spring Boot, Angular, Firebase and AWS 
+
+## Skills: 
 * JIRA
 * Java EJBs & CDIs, Spring Boot
 * JAXB, JRXML, JUnit, iReport
@@ -11,10 +15,6 @@ I am an experienced Associate Software Engineer(Java) with a demonstrated histor
 * HTML
 * SQL 
 * Python
-
-- 🔭 I’m currently working on my portfolio website in Angular and Spring Boot. 
-- 🌱 I’m currently learning Java Spring Boot, Angular, Firebase and AWS 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bshreejit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bshreejit/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bshreejit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bshreejit/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bshreejit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](bshreejit@gmail.com)  
 
