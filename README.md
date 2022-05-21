@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Shreejit Bhattarai.
 #### Currently I am pursuing Masters in Computer Science in The University of Southern Mississippi.
-![Currently I am pursuing Masters in Computer Science in The University of Southern Mississippi.](https://nba2kw.com/wp-content/uploads/2021/09/nba-2k22-locker-codes-myteam-active-not-expired-current-next-gen.jpg)
+![Currently I am pursuing Masters in Computer Science in The University of Southern Mississippi.]
 
 I am an experienced Java Software Engineer with a demonstrated history of working in the information technology and services industry. I possess a strong engineering professional with a Bachelor's degree focused in Computer Engineering from Tribhuvan University, Kathmandu, Nepal. 
 
