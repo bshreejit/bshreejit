@@ -4,7 +4,7 @@ I am an experienced Associate Software Engineer(Java) with a demonstrated histor
 
 
 - 🔭 I’m currently working on my portfolio website in Angular and Spring Boot. 
-- 🌱 I’m currently learning Java Spring Boot, Angular, Firebase and AWS 
+- 🌱 I’m currently learning Java Spring Boot, Spring Security, Angular, Firebase and AWS.
 
 ## Skills: 
 * JIRA
